@@ -19,6 +19,7 @@ def mergesort(list: list[int]) -> list[int]:
 		sorted_array.extend(right)
 	return sorted_array
 
+
 if __name__ == "__main__":
 	test_lists = [
 		[1, 2, 3, 4],

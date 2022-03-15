@@ -26,6 +26,7 @@ def bucketsort(array: list[int]) -> None:
 			array[index] = x
 			index += 1
 
+
 if __name__ == "__main__":
 	test_arrays = [
 		[1, 2, 3, 4],
